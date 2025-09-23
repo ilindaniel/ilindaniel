@@ -56,6 +56,7 @@ Languages, tools, and platforms I use:
 ### Mobile & Desktop
 <p>
   <img src="https://reactnative.dev/img/header_logo.svg" height="40" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/expo.svg" height="40" alt="Expo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="Electron" />
 </p>
@@ -68,6 +69,7 @@ Languages, tools, and platforms I use:
 
 ### Cloud & Infra
 <p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/vercel.svg" height="40" alt="Vercel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud Platform" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
 </p>
@@ -83,4 +85,5 @@ Languages, tools, and platforms I use:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="ESLint" />
   <img src="https://prettier.io/icon.png" height="40" alt="Prettier" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/sentry.svg" height="40" alt="Sentry" />
 </p>
