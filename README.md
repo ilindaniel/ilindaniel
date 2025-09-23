@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Daniel Ilin. Currently working on PeerFinder, and learning Vue.js and Go.
+I'm Daniel Ilin. Currently working on [PeerFinder](https://peerfinder.org/), and learning Vue.js and Go.
 
 ---
 
@@ -14,7 +14,7 @@ I'm Daniel Ilin. Currently working on PeerFinder, and learning Vue.js and Go.
 
 ## Tech Stack
 
-Technologies, languages, tools, and platforms I use:
+Languages, tools, and platforms I use:
 
 ### Frontend
 <p>
