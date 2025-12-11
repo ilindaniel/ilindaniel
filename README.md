@@ -1,4 +1,6 @@
-Current side project: [PeerFinder.org](https://peerfinder.org/ "PeerFinder.org") (Campus tool used by 3000+ students)
+Current side projects:
+- [PeerFinder.org](https://peerfinder.org/ "PeerFinder.org") (Campus tool used by 4000+ monthly active students)
+- [Atelio](https://atelio.gallery/ "Atelio") (A quiet space for your visual stories)
 
 Honorable mentions:
 - [webserv](https://github.com/Peu77/webserv "webserv") (HTTP server written from scratch)
