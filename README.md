@@ -1,5 +1,5 @@
 Current side projects:
-- [PeerFinder](https://peerfinder.org/ "PeerFinder") (Campus tool used by 5000+ monthly active students)
+- [PeerFinder](https://peerfinder.org/ "PeerFinder") (Campus tool used by 6000+ monthly active students)
 - [Atelio](https://atelio.gallery/ "Atelio") (A quiet space for your visual stories)
 
 Honorable mentions:
