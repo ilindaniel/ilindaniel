@@ -1,4 +1,5 @@
 Current side projects:
+- [Heilbronn.app](https://heilbronn.app/ "Heilbronn.app") (Event aggregator for the city of Heilbronn)
 - [PeerFinder](https://peerfinder.org/ "PeerFinder") (Campus tool used by 6000+ monthly active students)
 - [Atelio](https://atelio.gallery/ "Atelio") (A quiet space for your visual stories)
 
