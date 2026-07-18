@@ -12,4 +12,6 @@ Honorable mentions:
 
 ---
 
-Read more about my projects: [ilindaniel.com](https://ilindaniel.com/ "ilindaniel.com")
+> My philosophy: I build projects that solve my own problems, then make them available to the public
+
+> Read more about how I work: [ilindaniel.com](https://ilindaniel.com/ "ilindaniel.com")
